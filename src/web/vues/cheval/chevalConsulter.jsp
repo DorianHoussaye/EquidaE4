@@ -39,7 +39,7 @@
 	<div class="col s12 l6 right">
 		<div class="row">
 			<div class="col s12">
-				<p><img src="<%= request.getContextPath()%>/img/1.jpg" class="responsive-img "/></p>
+				<p><img src="<%= request.getContextPath()%>/img/4.jpg" class="responsive-img "/></p>
 			</div>
 		</div>
 		<%

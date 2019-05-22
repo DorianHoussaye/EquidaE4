@@ -17,7 +17,7 @@
 <div class="col s12 m4 l3">
 	<div class="card">
 		<div class="card-image">
-			<img src="<%= request.getContextPath() %>/img/2.jpg">
+			<img src="<%= request.getContextPath() %>/img/5.jpg">
 			<span class="card-title"><%= lot.getCheval().getNom()%></span>
 		</div>
 		<div class="card-content">
