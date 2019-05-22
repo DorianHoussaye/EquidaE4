@@ -27,11 +27,11 @@ import modele.Utilisateur;
  */
 public class ServletCourse extends ServletBase {
 
-	public static final String URL_AJOUTER_COURSE = "/EquidaE4/ServletCourse/courseAjouter";
-	public static final String URL_RENSEIGNER_COURSE_POUR_CHEVAL = "/EquidaE4/ServletCourse/courseChevalRenseigner";
-	public static final String URL_MODIFIER_COURSE = "/EquidaE4/ServletCourse/courseModifier";
-	public static final String URL_LISTER_COURSES = "/EquidaE4/ServletCourse/listerLesCourses";
-	public static final String URL_SUPPRIMER_CLASSEMENT_CHEVAL = "/EquidaE4/ServletCourse/courseSupprimer";
+	public static final String URL_AJOUTER_COURSE = "/Equidor/ServletCourse/courseAjouter";
+	public static final String URL_RENSEIGNER_COURSE_POUR_CHEVAL = "/Equidor/ServletCourse/courseChevalRenseigner";
+	public static final String URL_MODIFIER_COURSE = "/Equidor/ServletCourse/courseModifier";
+	public static final String URL_LISTER_COURSES = "/Equidor/ServletCourse/listerLesCourses";
+	public static final String URL_SUPPRIMER_CLASSEMENT_CHEVAL = "/Equidor/ServletCourse/courseSupprimer";
 	
 	Connection connection;
 

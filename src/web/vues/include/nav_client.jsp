@@ -10,6 +10,6 @@
 <%
         Utilisateur user = (Utilisateur) request.getSession().getAttribute("user");
 %>
-<li><a href="/EquidaE4/ServletCheval/ajouterCheval">Ajouter un cheval</a></li>
-<li><a href="/EquidaE4/ServletCheval/listerMesChevaux">Mes chevaux</a></li>
-<li><a href="/EquidaE4/ServletClient/clientModifier">Mes informations</a></li>
+<li><a href="/Equidor/ServletCheval/ajouterCheval">Ajouter un cheval</a></li>
+<li><a href="/Equidor/ServletCheval/listerMesChevaux">Mes chevaux</a></li>
+<li><a href="/Equidor/ServletClient/clientModifier">Mes informations</a></li>

@@ -6,5 +6,5 @@
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 
-<li><a href="/EquidaE4/ServletLot/listerLesLots">Consulter les chevaux</a></li>
-<li><a href="/EquidaE4/ServletVentes/listerLesVentes">Consulter les ventes</a></li>
+<li><a href="/Equidor/ServletLot/listerLesLots">Consulter les chevaux</a></li>
+<li><a href="/Equidor/ServletVentes/listerLesVentes">Consulter les ventes</a></li>

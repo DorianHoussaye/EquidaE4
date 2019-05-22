@@ -1,3 +1,4 @@
+
 package servlets;
 
 import database.CategVenteDAO;
@@ -33,13 +34,13 @@ import modele.Vente;
  */
 public class ServletCheval extends ServletBase {
 
-	public static final String URL_AJOUTER_CHEVAL = "/EquidaE4/ServletCheval/ajouterCheval";
-	public static final String URL_CONSULTER_CHEVAL = "/EquidaE4/ServletCheval/consulterCheval";
-	public static final String URL_MODIFIER_CHEVAL = "/EquidaE4/ServletCheval/chevalModifier";
-	public static final String URL_ARCHIVER_CHEVAL = "/EquidaE4/ServletCheval/chevalArchiver";
-	public static final String URL_LISTER_LOTS = "/EquidaE4/ServletLot/listerLesLots";
-	public static final String URL_LISTER_MES_CHEVAUX = "/EquidaE4/ServletCheval/listerMesChevaux";
-	public static final String URL_VALIDER_CHEVAL = "/EquidaE4/ServletCheval/chevalValider";
+	public static final String URL_AJOUTER_CHEVAL = "/Equidor/ServletCheval/ajouterCheval";
+	public static final String URL_CONSULTER_CHEVAL = "/Equidor/ServletCheval/consulterCheval";
+	public static final String URL_MODIFIER_CHEVAL = "/Equidor/ServletCheval/chevalModifier";
+	public static final String URL_ARCHIVER_CHEVAL = "/Equidor/ServletCheval/chevalArchiver";
+	public static final String URL_LISTER_LOTS = "/Equidor/ServletLot/listerLesLots";
+	public static final String URL_LISTER_MES_CHEVAUX = "/Equidor/ServletCheval/listerMesChevaux";
+	public static final String URL_VALIDER_CHEVAL = "/Equidor/ServletCheval/chevalValider";
 	
 	Connection connection;
 

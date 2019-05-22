@@ -20,9 +20,9 @@ import modele.Utilisateur;
  */
 public class ServletLot extends ServletBase {
 
-	public static final String URL_LISTER_LOTS = "/EquidaE4/ServletLot/listerLesLots";
-	public static final String URL_LISTER_NONVALIDER = "/EquidaE4/ServletLot/listerLesNonValides";
-	public static final String URL_AJOUTER_LOTS = "/EquidaE4/ServletLot/ajouterLot";
+	public static final String URL_LISTER_LOTS = "/Equidor/ServletLot/listerLesLots";
+	public static final String URL_LISTER_NONVALIDER = "/Equidor/ServletLot/listerLesNonValides";
+	public static final String URL_AJOUTER_LOTS = "/Equidor/ServletLot/ajouterLot";
 	
 	Connection connection;
 
